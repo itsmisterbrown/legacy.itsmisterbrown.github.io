@@ -7,13 +7,13 @@ title: software & pubs
 
 <h2><em>Software</em></h2> 
 <br>
-# R packages
+    ## R packages
 <br>
 <!-- pico -->
-<img src="/img/Sabin2_spb15.pdf" width = "300" height = "300" align = "right" style = "margin: 0px 20px 0px 20px">
+<img src="/img/Sabin2_spb15.pdf" width = "300" height = "300" align = "right" style = "margin: 0px 20px 0px 20px"> <br>
 <h3>pico</h3>
 
-
+<br>
 manuscript under review
 <br/>
 <hr/>
@@ -21,7 +21,7 @@ manuscript under review
 <br>
 
 <!-- microfiltR -->
-<img src="/img/glm_asv_stats.pdf" width = "300" height = "300" align = "right" style = "margin: 0px 20px 0px 20px">
+<img src="/img/glm_asv_stats.pdf" width = "300" height = "300" align = "right" style = "margin: 0px 20px 0px 20px"><br>
 <h3>microfiltR</h3>
 
 manuscript in preparation     
