@@ -15,6 +15,7 @@ title: software & pubs
 <br>
 <u>Affiliated manuscript:</u> <b>Brown BP</b>, et al. HIV exposure alters the fecal microbiome and efficacy of oral polio vaccine in Nigerian infants. *In review*
 <br>
+<br>
 Package will be available via Bioconductor shortly.
 
 <br>
@@ -29,6 +30,7 @@ Package will be available via Bioconductor shortly.
 <b>microfiltR</b> is an R package that aims to identify and correct for sources of contamination in compositional marker gene surveys. <br>
 <br>
 <u>Affiliated manuscript:</u> <b>Brown BP</b>, et al. Cross contamination modeling and filtering vastly improves the accuracy of compositional microbiome studies. *In prep*
+<br>
 <br>
 Package publicly available @ <A HREF = "https://github.com/itsmisterbrown/microfiltR">GitHub</A>
 <br>
