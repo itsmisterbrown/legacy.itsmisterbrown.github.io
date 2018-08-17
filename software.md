@@ -21,7 +21,7 @@ title: software & pubs
 
 
 <!-- microfiltR -->
-<img src="/img/glm_asv_stats.png" width = "462" height = "462" align = "right" style = "margin: 0px 20px 0px 0px">
+<img src="/img/glm_asv_stats.png" width = "462" height = "350" align = "right" style = "margin: 0px 20px 0px 0px">
 <br>
 <h3>microfiltR</h3>
 <b>microfiltR</b> is an R package that aims to identify and correct for sources of contamination in compositional marker gene surveys. <br>
