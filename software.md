@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /software/
 title: software & pubs
 <!-- description: Software and academic projects I've worked on. -->
 ---
