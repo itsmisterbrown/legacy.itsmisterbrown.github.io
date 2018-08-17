@@ -14,6 +14,8 @@ title: software & pubs
 <b>pico</b> is an R package that couples an L1 penalized matrix decomposition to the isometric log ratio transformation. This transformation, termed the penalized ILR, enables robust analysis and modeling of compositional microbiome data. In the associated manuscript, we employ pico to reveal shifts in the composition of infant fecal microbiota affiliated with HIV exposure and to identify bacteria that are linear predictors of serum titer responses to oral polio vaccine.<br>
 <br>
 <u>Affiliated manuscript:</u> <b>Brown BP</b>, et al. HIV exposure alters the fecal microbiome and efficacy of oral polio vaccine in Nigerian infants. *In review*
+<br>
+Package will be available via Bioconductor shortly.
 
 <br>
 <hr/>
@@ -27,7 +29,8 @@ title: software & pubs
 <b>microfiltR</b> is an R package that aims to identify and correct for sources of contamination in compositional marker gene surveys. <br>
 <br>
 <u>Affiliated manuscript:</u> <b>Brown BP</b>, et al. Cross contamination modeling and filtering vastly improves the accuracy of compositional microbiome studies. *In prep*
-<br/>
+<br>
+Package publicly available @ <A HREF = "https://github.com/itsmisterbrown/microfiltR">GitHub</A>
 <br>
 <br>
 <br>
