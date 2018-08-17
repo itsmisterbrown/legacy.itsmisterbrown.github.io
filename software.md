@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /software/
 title: software & pubs
 <!-- description: Software packages and publication history -->
 ---
