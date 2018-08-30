@@ -13,4 +13,4 @@ While you're here, take a peek at this shot from North Cascades National Park, o
 in the lovely PNW!
 <br>
 
-<img src="/img/NCNP" width = "1012" height = "759" align = "center" style = "margin: 0px 0px 0px 0px">
+<img src="/img/NCNP.jpg" width = "1012" height = "759" align = "center" style = "margin: 0px 0px 0px 0px">
