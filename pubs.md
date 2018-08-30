@@ -12,3 +12,5 @@ Hey, thanks for checking out my pubs. The link above should give you all of the 
 While you're here, take a peek at this shot from North Cascades National Park, one of the many reasons that I feel so grateful to be living
 in the lovely PNW!
 <br>
+
+<img src="/img/NCNP" width = "1012" height = "759" align = "center" style = "margin: 0px 0px 0px 0px">
