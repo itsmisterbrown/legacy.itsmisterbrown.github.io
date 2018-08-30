@@ -1,14 +1,9 @@
 ---
 layout: page
 permalink: /software/
-title: software & pubs
-<!-- description: Software packages and publication history -->
+title: software
+<!-- description: Software packages -->
 ---
-<h2><em>Publication history</em></h2> 
-<A HREF = "https://scholar.google.com/citations?user=Y8982UEAAAAJ&hl=en">Google Scholar</A>
-<br>
-<br>
-<br>
 <h2><em>Software</em></h2> 
 <br>
 <h2><em>R packages</em></h2> <br>
